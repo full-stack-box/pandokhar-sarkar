@@ -56,7 +56,7 @@ let data=[
 ]
 
 let url=window.location.href;
-let finalurl=url.slice(41);
+let finalurl=url.slice(69);
 console.log(finalurl);
 function xyz(ur){
    data.map((x)=>{
